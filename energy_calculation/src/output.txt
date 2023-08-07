@@ -1,0 +1,25 @@
+$ python3 main.py
+
+[2023-08-06 22:59:10,993][INFO] Loading events...
+[2023-08-06 22:59:11,075][INFO] 2613 events loaded
+[2023-08-06 22:59:11,075][INFO] Calculating energy usage intervals...
+[2023-08-06 22:59:11,101][INFO] Total Energy: 0.36Wh 1305.11J
+[2023-08-06 22:59:11,101][INFO] Calculating green energy usage...
+[2023-08-06 22:59:11,131][INFO] Total Energy: 0.36Wh (1305.11J)
+[2023-08-06 22:59:11,131][INFO] Total Brown Energy Used: 0.25Wh (895.56J)
+[2023-08-06 22:59:11,131][INFO] Total Green Energy Used: 0.11Wh (409.55J)
+[2023-08-06 22:59:11,131][INFO] Total Green Energy Not Used: 0.00Wh (0.02J)
+
+$ python3 main.py
+
+[2023-08-07 12:35:01,091][INFO] Loading events...
+[2023-08-07 12:36:22,432][INFO] 1368330 events loaded
+[2023-08-07 12:36:22,433][INFO] Calculating energy usage intervals...
+[2023-08-07 12:36:36,381][INFO] Total Energy: 199.63Wh 718675.91J
+[2023-08-07 12:36:36,381][INFO] Calculating green energy usage...
+[2023-08-07 12:36:50,533][INFO] Total Energy: 199.63Wh (718675.91J)
+[2023-08-07 12:36:50,533][INFO] Total Brown Energy Used: 141.62Wh (509828.63J)
+[2023-08-07 12:36:50,533][INFO] Total Green Energy Used: 58.01Wh (208847.28J)
+[2023-08-07 12:36:50,533][INFO] Total Green Energy Not Used: 0.11Wh (409.48J)
+
+
