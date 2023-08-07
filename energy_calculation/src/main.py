@@ -96,8 +96,8 @@ def calc_pv_energy_usage_2(energy_trace, pv_energy_file_name, pv_area, offset = 
 
 if __name__ == '__main__':
 
-    events_file = '../data/OMPC_matmul_trace_data.json'
-    #events_file = '../data/OMPC_matmul_trace_data_510x.json'
+    #events_file = '../data/OMPC_matmul_trace_data.json'
+    events_file = '../data/OMPC_matmul_trace_data_510x.json'
 
     pv_energy_file = './../../photovolta/data/photovolta_2016_part_1.csv'
     pv_area = 1
