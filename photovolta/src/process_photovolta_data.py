@@ -78,6 +78,6 @@ def process_photovolta_data(source_file, new_file):
                 previous_time_stamp = time_stamp
 
 if __name__ == '__main__':
-    process_photovolta_data('photovolta_2016_raw_data_part_1.csv', 'photovolta_2016_part_1.csv')
-    process_photovolta_data('photovolta_2016_raw_data_part_2.csv', 'photovolta_2016_part_2.csv')
+    process_photovolta_data('../data/photovolta_2016_raw_data_part_1.csv', '../data/photovolta_2016_part_1.csv')
+    process_photovolta_data('../data/photovolta_2016_raw_data_part_2.csv', '../data/photovolta_2016_part_2.csv')
 

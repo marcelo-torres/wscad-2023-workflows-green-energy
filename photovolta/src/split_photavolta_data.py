@@ -61,8 +61,8 @@ def split_photovolta(source_file, new_files_prefix, report_file_name):
         report_file.close()
     
 if __name__ == '__main__':
-    split_photovolta('photovolta_2016_part_1.csv', 'data/photovolta_2016_part_1', 'data/report_part_1.txt')
-    split_photovolta('photovolta_2016_part_2.csv', 'data/photovolta_2016_part_2', 'data/report_part_2.txt')
+    split_photovolta('../data/photovolta_2016_part_1.csv', '../data/splitted/photovolta_2016_part_1', '../data/splitted/report_part_1.txt')
+    split_photovolta('../data/photovolta_2016_part_2.csv', '../data/splitted/photovolta_2016_part_2', '../data/splitted/report_part_2.txt')
                           
         
         

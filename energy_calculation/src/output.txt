@@ -1,0 +1,12 @@
+$ python3 main.py
+
+[2023-08-06 22:59:10,993][INFO] Loading events...
+[2023-08-06 22:59:11,075][INFO] 2613 events loaded
+[2023-08-06 22:59:11,075][INFO] Calculating energy usage intervals...
+[2023-08-06 22:59:11,101][INFO] Total Energy: 0.36Wh 1305.11J
+[2023-08-06 22:59:11,101][INFO] Calculating green energy usage...
+[2023-08-06 22:59:11,131][INFO] Total Energy: 0.36Wh (1305.11J)
+[2023-08-06 22:59:11,131][INFO] Total Brown Energy Used: 0.25Wh (895.56J)
+[2023-08-06 22:59:11,131][INFO] Total Green Energy Used: 0.11Wh (409.55J)
+[2023-08-06 22:59:11,131][INFO] Total Green Energy Not Used: 0.00Wh (0.02J)
+

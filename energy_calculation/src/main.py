@@ -96,12 +96,12 @@ def calc_pv_energy_usage_2(energy_trace, pv_energy_file_name, pv_area, offset = 
 
 if __name__ == '__main__':
 
-    events_file = 'user_formatted_bigger.json'
-    #events_file = 'user_formatted.json'
-    #pv_energy_file = './../photovolta/data/photovolta_2016.csv_0.csv'
-    pv_energy_file = './../photovolta/photovolta_2016_part_1.csv'
+    events_file = '../data/OMPC_matmul_trace_data.json'
+    #events_file = '../data/OMPC_matmul_trace_data_510x.json'
+
+    pv_energy_file = './../../photovolta/data/photovolta_2016_part_1.csv'
     pv_area = 1
-    offset = 29400
+    offset = 29400 #start time
 
     total_energy_in_joules, energy_trace = calc_energy_usage(events_file)
     

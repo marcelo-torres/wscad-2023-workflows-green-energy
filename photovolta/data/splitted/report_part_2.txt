@@ -1,0 +1,31 @@
+[0] Writing file ../data/splitted/photovolta_2016_part_2_0.csv
+	Elements: 2016
+	Standard Deviation: 137.86
+	Mean: 58.67
+
+[1] Writing file ../data/splitted/photovolta_2016_part_2_1.csv
+	Elements: 2016
+	Standard Deviation: 143.19
+	Mean: 58.37
+
+[2] Writing file ../data/splitted/photovolta_2016_part_2_2.csv
+	Elements: 2016
+	Standard Deviation: 145.54
+	Mean: 69.73
+
+[3] Writing file ../data/splitted/photovolta_2016_part_2_3.csv
+	Elements: 2016
+	Standard Deviation: 128.75
+	Mean: 57.01
+
+[4] Writing file ../data/splitted/photovolta_2016_part_2_4.csv
+	Elements: 2016
+	Standard Deviation: 97.06
+	Mean: 38.05
+
+[5] Writing file ../data/splitted/photovolta_2016_part_2_5.csv
+	Elements: 2016
+	Standard Deviation: 108.27
+	Mean: 45.41
+
+[6] Writing file ../data/splitted/photovolta_2016_part_2_6.csv
