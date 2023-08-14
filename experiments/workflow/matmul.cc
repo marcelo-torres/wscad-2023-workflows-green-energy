@@ -116,7 +116,6 @@ void BlockMatMul_TargetNowait(BlockMatrix &A, BlockMatrix &B, BlockMatrix &C) {
 
           }
 
-          #pragma omp parallel for
           for (int ii = 0; ii < BS; ++ii)
             for (int jj = 0; jj < BS; ++jj) {
               long sum = 0.0;
